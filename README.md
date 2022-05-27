@@ -1,4 +1,18 @@
-### Hi there 👋
+### Software Engineer, Web Developer and learning everyday!
+
+Hi there, My name is Tanmoy, but you can call me Dave 🙌🏽
+
+- Born in Dhaka, Bangladesh 🇧🇩
+- Educated in Seoul, South Korea 🇰🇷
+- Living and working in Phnom Penh, Cambodia 🇰🇭
+
+I studied Computer Science and Engineering at Seoul National University, and I like working on exciting new projects! Forreal, I'm learning Laravel right now and have half a mind to convert my website to a laravel webapp 😂
+
+Human language wise, I speak 🇧🇩🇺🇸🇰🇷🇮🇳🇵🇰 fluently, and my 🇷🇺🇹🇷 is limited, but I can survive in the cold hard streets lmao. Picking up 🇰🇭 now cause I'm living here and it's pretty fun!
+
+Feel free to hit me up if you wanna collab on a project, or you want to reach out to me about exciting opportunities or just for a cup of coffee! My contact info is listed on my profile 👨🏽‍💻
+
+YOLO 🙌🏽
 
 <!--
 **devlightman/devlightman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
