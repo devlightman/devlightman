@@ -1,3 +1,7 @@
+![1651342553830](https://user-images.githubusercontent.com/20808296/170642760-951cf48c-42be-4ab1-ad02-86ec9f93adc0.jpeg)
+
+
+
 ### Software Engineer, Web Developer and learning everyday!
 
 Hi there, My name is Tanmoy, but you can call me Dave 🙌🏽
