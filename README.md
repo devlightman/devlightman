@@ -10,7 +10,7 @@ Hi there, My name is Tanmoy, but you can call me Dave 🙌🏽
 - Educated in Seoul, South Korea 🇰🇷
 - Living and working in Phnom Penh, Cambodia 🇰🇭
 
-I studied Computer Science and Engineering at Seoul National University, and I like working on exciting new projects! Forreal, I'm learning Laravel right now and have half a mind to convert my website to a laravel webapp 😂
+I studied Computer Science and Engineering at Seoul National University, and I like working on exciting new projects!
 
 Human language wise, I speak 🇧🇩🇺🇸🇰🇷🇮🇳🇵🇰 fluently, and my 🇷🇺🇹🇷 is limited, but I can survive in the cold hard streets lmao. Picking up 🇰🇭 now cause I'm living here and it's pretty fun!
 
