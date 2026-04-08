@@ -1,36 +1,90 @@
-![1651342553830](https://user-images.githubusercontent.com/20808296/170642760-951cf48c-42be-4ab1-ad02-86ec9f93adc0.jpeg)
+<div align="center">
 
+# Tanmoy Chowdhury
+### Building products, companies, and digital infrastructure
 
+Currently building tech products in Southeast Asia 🇰🇭  
+Computer Science @ Seoul National University  
 
-### Software Engineer, Web Developer and learning everyday!
+</div>
 
-Hi there, My name is Tanmoy, but you can call me Dave 🙌🏽
+---
 
-- Born in Dhaka, Bangladesh 🇧🇩
-- Educated in Seoul, South Korea 🇰🇷
-- Living and working in Phnom Penh, Cambodia 🇰🇭
+## 🚀 Current Projects
 
-I studied Computer Science and Engineering at Seoul National University, and I like working on exciting new projects!
+**NomNote**  
+Platform for discovering experiences, venues, and events while providing businesses with tools like ticketing, CRM, and analytics.
 
-Human language wise, I speak 🇧🇩🇺🇸🇰🇷🇮🇳🇵🇰 fluently, and my 🇷🇺🇹🇷 is limited, but I can survive in the cold hard streets lmao. Picking up 🇰🇭 now cause I'm living here and it's pretty fun!
+**Medivet**  
+Digital infrastructure for veterinary services and animal health products.
 
-Feel free to hit me up if you wanna collab on a project, or you want to reach out to me about exciting opportunities or just for a cup of coffee! My contact info is listed on my profile 👨🏽‍💻
+**Other work**
+- Startup ventures through Third State (family office)
+- Early stage product experiments
+- Growth and distribution systems
 
-YOLO 🙌🏽
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devlightman&langs_count=15&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## 🧠 Areas I work in
 
-<!--
-**devlightman/devlightman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```text
+Product Engineering
+Startup Building
+Growth Strategy
+Investment & Venture Strategy
+UX / Product Design
+AI Integration
+```
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Tech Stack
+
+**Frontend**
+- Vue / Nuxt
+- Angular
+- Modern CSS systems
+
+**Backend**
+- Node.js
+- Strapi
+- REST APIs
+
+**Infrastructure**
+- Vercel
+- Railway
+- Cloud deployments
+- SEO systems
+
+**Other**
+- Product architecture
+- Startup execution
+- Market strategy
+
+---
+
+## 🌏 About Me
+
+- Building startups in Cambodia
+- Computer Science student at Seoul National University
+- Speak multiple languages
+- In crypto since 2017
+- Interested in venture building and scalable platforms
+
+---
+
+## 📊 Founder Mindset
+
+```text
+Build → Launch → Learn → Improve → Scale
+```
+
+Currently focused on building products that solve real problems instead of theoretical ones.  
+
+---
+
+<div align="center">
+
+### Always building something.
+
+</div>
