@@ -5,6 +5,7 @@
 
 Currently building tech products in Southeast Asia 🇰🇭  
 Computer Science @ Seoul National University  
+📍: 🇰🇭, 🇺🇸, 🇧🇩, 🇰🇷
 
 </div>
 
