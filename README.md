@@ -1,91 +1,21 @@
-<div align="center">
+# Tanmoy Chowdhury (Dave)
 
-# Tanmoy Chowdhury
-### Building products, companies, and digital infrastructure
+**Founder & CEO, [NomNote](https://nomnote.com)** — Phnom Penh's discovery, reservation and events platform 🇰🇭
 
-Currently building tech products in Southeast Asia 🇰🇭  
-Computer Science @ Seoul National University  
-📍: 🇰🇭, 🇺🇸, 🇧🇩, 🇰🇷
+I build products. Right now that's NomNote - one app for finding, booking, and showing up to whatever's worth going to in Phnom Penh. Venue discovery, reservations, events, and ticketing, built for locals, expats, and tourists alike. 300+ curated venues, live on Web, iOS and Android, with a recommendation engine that learns what each user actually likes.
 
-</div>
+Day job: Product Engineer at Medivet, building digital infrastructure for veterinary services — unrelated to NomNote, just where I also work.
 
----
-
-## 🚀 Current Projects
-
-**NomNote**  
-Platform for discovering experiences, venues, and events while providing businesses with tools like ticketing, CRM, and analytics.
-
-**Medivet**  
-Digital infrastructure for veterinary services and animal health products.
-
-**Other work**
-- Startup ventures through Third State (family office)
-- Early stage product experiments
-- Growth and distribution systems
+Background in Computer Science, Seoul National University.
 
 ---
 
-## 🧠 Areas I work in
+### Stack
 
-```text
-Product Engineering
-Startup Building
-Growth Strategy
-Investment & Venture Strategy
-UX / Product Design
-AI Integration
-```
+**Languages** — Python, TypeScript/JavaScript, VHDL, Java, C++, PHP
+**Backend & Infra** — Node.js, Strapi, REST APIs, AWS Serverless, Vercel
+**Data** — PostgreSQL, MySQL, applied ML/predictive modeling
+**Frontend** — Vue/Nuxt, Angular
 
----
-
-## ⚙️ Tech Stack
-
-**Frontend**
-- Vue / Nuxt
-- Angular
-- Modern CSS systems
-
-**Backend**
-- Node.js
-- Strapi
-- REST APIs
-
-**Infrastructure**
-- Vercel
-- Railway
-- Cloud deployments
-- SEO systems
-
-**Other**
-- Product architecture
-- Startup execution
-- Market strategy
-
----
-
-## 🌏 About Me
-
-- Building startups in Cambodia
-- Computer Science student at Seoul National University
-- Speak multiple languages
-- In crypto since 2017
-- Interested in venture building and scalable platforms
-
----
-
-## 📊 Founder Mindset
-
-```text
-Build → Launch → Learn → Improve → Scale
-```
-
-Currently focused on building products that solve real problems instead of theoretical ones.  
-
----
-
-<div align="center">
-
-### Always building something.
-
-</div>
+### Elsewhere
+[nomnote.com](https://nomnote.com) · [lightman.studio](https://lightman.studio) · [LinkedIn](https://linkedin.com/in/tanmoychw)
