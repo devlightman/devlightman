@@ -18,4 +18,4 @@ Background in Computer Science, Seoul National University.
 **Frontend** — Vue/Nuxt, Angular
 
 ### Elsewhere
-[nomnote.com](https://nomnote.com) · [lightman.studio](https://lightman.studio) · [LinkedIn](https://linkedin.com/in/tanmoychw)
+[nomnote.com](https://nomnote.com) · [LinkedIn](https://linkedin.com/in/tanmoychw)
